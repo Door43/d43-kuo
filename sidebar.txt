@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kuo:home|Door43 (kuo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kuo|d43-kuo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kuo/archive/master.zip|d43-kuo.zip]]
+
+**Recent Changes**
+{{changes>ns = kuo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kuo|Ethnologue data]]
+
